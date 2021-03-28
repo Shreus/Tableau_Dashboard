@@ -1,5 +1,3 @@
 # Tableau_Dashboard 
 
-Detailed Dasboards for Projects in various Industries:- 
- 
- 
+Here are a few detailed Dasboards for Projects in various Industries:- 
